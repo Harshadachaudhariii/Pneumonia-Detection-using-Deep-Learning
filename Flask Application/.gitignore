@@ -1,0 +1,6 @@
+# virtual environment
+project/
+# model trained file
+vgg_unfrozen.h5
+# predicted data
+uploads
